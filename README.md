@@ -5,8 +5,11 @@
 Esse é um esboço inicial. Tem que colocar um resumo breve sobre.
 
 Links: 
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/)
 
 ## Projetos:
 
-Irei colocar os projetos aqui em breve:
+*  **Arquivos de Cursos:** https://bit.ly/2BbQs1p
+*  **Competições:** https://bit.ly/2ViViAW
+*  **Imóveis para Aluguel:**
+*  **Projeto HP:** https://bit.ly/3ezQazP
