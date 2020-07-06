@@ -9,7 +9,8 @@ Links:
 
 ## Projetos:
 
-*  **Arquivos de Cursos:** https://bit.ly/2BbQs1p
-*  **Competições:** https://bit.ly/2ViViAW
-*  **Imóveis para Aluguel:**
-*  **Projeto HP:** https://bit.ly/3ezQazP
+| Principal Atividade | Nome do Projeto | Ferramentas Utilizadas | Skills Utilizadas |
+| ------- | ------- | ------- | ------- |
+| Extração de Dados | [**Books to Scrape**](https://github.com/GabrielTrentino/WebScraping/tree/master/01-BooksToScrape) | `Python`, `Web Scraping` | Extração e Análise de Dados, Web Scraping |
+| Aplicação Web | [**WebApp Imóveis em São Paulo**](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/05_DeployML_imoveis_SaoPaulo.ipynb) | `Python`, `Jupyter Notebook`, `HTML`, `Bootstrap` | Análise de Dados, Machine Learning e Aplicação Web |
+| Análise de Dados | [**Análise AirBNB: RIO**](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/01_An%C3%A1lise_Explorat%C3%B3ria_AirBNB_(RIO).ipynb) | `Jupyter Notebook` | Análise de Dados, Visualização de Dados |
