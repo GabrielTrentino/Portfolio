@@ -1,9 +1,9 @@
+![](https://github.com/GabrielTrentino/Portfolio/blob/master/DataScience.png)
 # Gabriel Trentino Fróes
 
 <sub>*Cientista de Dados*</sub>
 
-Esse é um esboço inicial. Tem que colocar um resumo breve sobre.
-
+Como Cientista de Dados e Bacharel em Engenharia Civil pela Pontifícia Católica de Goiás (PUC-GO).
 Links: 
 * [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/)
 
